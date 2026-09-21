@@ -1,4 +1,3 @@
--- Módulo Animals convertido de tabela
 local Animals = {
     ["Noo my Gold"] = {
         ["SpawnVFX"] = "Clover",
